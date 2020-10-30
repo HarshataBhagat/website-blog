@@ -1,0 +1,21 @@
+{
+    "para":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:password@localhost/web",
+        "prod_uri": "mysql://root:password@localhost/web",
+        "tw_uri": "https//:twitter.com/beadvantureous",
+        "fb_uri": "https//:facebook.com/beadvantureous",
+        "gt_uri": "https//:github.com/beadvantureous",
+        "site_heading" : "Some beautiful paths can,t be discovered without getting lost.",
+        "subheading":"\"Find a beautiful place, and get lost.\"",
+        "blog_name": "Be Adventurous!",
+        "gmail-user":"gmail@gmail.com",
+        "gmail-password":"password",
+        "no_of_posts":3,
+        "admin_user":"harshata",
+        "admin_password":"harshata",
+        "upload_location":"D:\\work_space\\blog\\static\\img"
+
+    }
+}
